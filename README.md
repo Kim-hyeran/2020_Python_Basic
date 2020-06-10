@@ -7,7 +7,7 @@
   - Language : Python 3.7
   - IDE Tool : Jupyter Notebook
 
-## Contents
+### Contents
   - Chapter 1. 주피터 노트북 사용법
   - Chapter 2-1. 변수의 이해 및 기본 데이터 타입
   - Chapter 2-2. 문자열 타입의 이해
