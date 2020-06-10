@@ -1,9 +1,9 @@
 # Education Python Basic Book:heart_eyes_cat:
 
-## Introduction
+### Introduction
   - Python 기본 프로그래밍 내용 정리
 
-## Developer Environment
+### Developer Environment
   - Language : Python 3.7
   - IDE Tool : Jupyter Notebook
 
