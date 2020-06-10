@@ -1,7 +1,7 @@
 # Education Python Basic Book:heart_eyes_cat:
 
 1. Introduction
-  - Python 기본 프로그래밍 내용 정리
+    - Python 기본 프로그래밍 내용 정리
 
 2. Developer Environment
   - Language : Python 3.7
